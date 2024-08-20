@@ -55,3 +55,7 @@ This project focuses on detecting drones in video streams and images using the Y
 - `output1.png`, `output2.png`: Example output images showing drone detection results.
 - `yolov8n.pt`: Pre-trained YOLOv8 model weights.
 - `README.md`: Project documentation (this file).
+
+## video Detection on Live
+
+https://github.com/user-attachments/assets/6770a928-239e-4263-a184-5447ae5453d9
