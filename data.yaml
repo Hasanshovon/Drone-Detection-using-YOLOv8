@@ -1,0 +1,6 @@
+names:
+  - drone
+nc: 1
+path: D:/Tampere University/Ms in CSE/Year 2023-2024/RA/work progress/kaggle/1. yolo drone detection/archive/drone_dataset
+train: D:/Tampere University/Ms in CSE/Year 2023-2024/RA/work progress/kaggle/1. yolo drone detection/archive/drone_dataset/train
+val: D:/Tampere University/Ms in CSE/Year 2023-2024/RA/work progress/kaggle/1. yolo drone detection/archive/drone_dataset/valid
